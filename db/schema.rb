@@ -10,10 +10,35 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171026093829) do
+ActiveRecord::Schema.define(version: 20171026105511) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "mves", force: :cascade do |t|
+    t.string "intro"
+    t.string "learn"
+    t.string "question1"
+    t.string "option1"
+    t.string "option2"
+    t.integer "answer"
+    t.string "rulefr"
+    t.string "ruleen"
+    t.string "expfr1"
+    t.string "expen1"
+    t.string "expfr2"
+    t.string "expen2"
+    t.string "expfr3"
+    t.string "expen3"
+    t.string "expfr4"
+    t.string "expen4"
+    t.string "expfr5"
+    t.string "expen5"
+    t.string "question2"
+    t.string "color"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false

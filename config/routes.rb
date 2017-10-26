@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'mves/index'
+
+  get 'mves/show'
+
   devise_for :users
  root to: 'pages#index'
 
