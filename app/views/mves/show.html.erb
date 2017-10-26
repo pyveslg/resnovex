@@ -1,2 +1,6 @@
-<h1>Mves#show</h1>
-<p>Find me in app/views/mves/show.html.erb</p>
+<%= content_tag :div,
+  id: "mfe_data",
+  data: @mfe.to_json do %>
+<% end %>
+
+<%= javascript_pack_tag 'mfe' %>

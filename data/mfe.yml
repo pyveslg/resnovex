@@ -1,6 +1,4 @@
 mfe1:
-  date: 04/04/2017
-  code: mfe-1
   intro: “C'est un plaisir de vous rencontrer !”
   learn: présenter quelqu'un
   question1: Pour présenter votre mari à vos collègues, vous dites
@@ -23,8 +21,6 @@ mfe1:
   color: f9dc24
 
 mfe2:
-  date: 05/04/2017
-  code: mfe-2
   intro: “Je pense, donc je suis”
   learn: donner votre avis
   question1: Pour donner votre opinion, vous dites
@@ -47,8 +43,6 @@ mfe2:
   color: 3DEEFA
 
 mfe3:
-  date: 06/04/2017
-  code: mfe-3
   intro: “Il n'y a pas de quoi !”<br/>&nbsp
   learn: répondre à un Merci
   question1: Votre collègue vous remercie, vous lui répondez
@@ -69,8 +63,6 @@ mfe3:
   color: FB56BB
 
 mfe4:
-  date: 07/04/2017
-  code: mfe-4
   intro: “Je le fais par passion !”<br/>&nbsp
   learn: parler au féminin
   question1: Votre ami vous invite chez lui. Pour faire un compliment sur sa maison, vous dites
@@ -91,8 +83,6 @@ mfe4:
   color: 33A7AE
 
 mfe5:
-  date: 10/04/2017
-  code: mfe-5
   intro: “C'est parti!”
   learn: vous déplacer
   question1: Pour parler de votre moyen de transport préféré, vous dites
@@ -115,8 +105,6 @@ mfe5:
   color: 7B6D18
 
 mfe6:
-  date: 11/04/2017
-  code: mfe-6
   intro: “Tu me manques déjà...”
   learn: exprimer votre manque
   question1: Votre ami est parti pendant trois mois à l'étranger. Vous lui dites
@@ -137,8 +125,6 @@ mfe6:
   color: 86EE9A
 
 mfe7:
-  date: 12/04/2017
-  code: mfe-7
   intro: “J'adore me lever de bonne heure !”
   learn: parler de votre réveil
   question1: Pour parler de vos habitudes matinales, vous dites
@@ -159,8 +145,6 @@ mfe7:
   color: CDEDF2
 
 mfe8:
-  date: 13/04/2017
-  code: mfe-8
   intro: “C’est toi qui décides.”
   learn: exprimer votre indifférence
   question1: Votre ami vous propose plusieurs activités.<br/>Pour dire que vous n’avez pas de préférence, vous dites
@@ -181,8 +165,6 @@ mfe8:
   color: FF915C
 
 mfe9:
-  date: 14/04/2017
-  code: mfe-9
   intro: “J’ai mon idée sur la question.”
   learn: annoncer des noms récalcitrants
   question1: Pour présenter votre amie, vous dites
@@ -203,8 +185,6 @@ mfe9:
   color: D6B2E4
 
 mfe10:
-  date: 18/04/2017
-  code: mfe-10
   intro: “Il a une curiosité insatiable.”
   learn: exprimer votre appétit
   question1: Pour dire qu'il est l'heure de manger, vous dites
