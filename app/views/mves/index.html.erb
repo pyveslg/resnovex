@@ -1,5 +1,10 @@
-<% @mfes.each do |mfe|  %>
-  <%= link_to mfe_path(mfe) do %>
-    <p>MFE: <%= mfe.id %></p>
+<!-- <div id="mfe-cards"></div>
+  <%= content_tag :div,
+  id: "mfe_card",
+  data: @mfes.to_json do %>
   <% end %>
-<% end %>
+
+<%= javascript_pack_tag 'index' %> -->
+
+
+

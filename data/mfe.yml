@@ -18,7 +18,7 @@ mfe1:
   expfr5: On peut <b>se tutoyer</b>.
   expen5: Let's use the informal “you”.
   question2: Alors, qui est la personne<br/>à côté de vous ?
-  color: f9dc24
+  color: "#f9dc24"
 
 mfe2:
   intro: “Je pense, donc je suis”
@@ -40,7 +40,7 @@ mfe2:
   expfr5: Et vous, <b>qu'en pensez-vous</b> ?
   expen5: What do you think about it ?
   question2: La journée commence bien.<br/>Et vous, qu'en pensez-vous ?
-  color: 3DEEFA
+  color: "#3DEEFA"
 
 mfe3:
   intro: “Il n'y a pas de quoi !”<br/>&nbsp
@@ -60,7 +60,7 @@ mfe3:
   expfr4: <b>Il n'y a pas de quoi</b> !
   expen4: Don't mention it!
   question2: Et si on vous<br/>disait merci ?
-  color: FB56BB
+  color: "#FB56BB"
 
 mfe4:
   intro: “Je le fais par passion !”<br/>&nbsp
@@ -80,7 +80,7 @@ mfe4:
   expfr4: Il faut savoir <b>résister à la tentation</b> !
   expen4: One should resist temptation!
   question2: Alors, trouverez-vous une exception ?
-  color: 33A7AE
+  color: "#33A7AE"
 
 mfe5:
   intro: “C'est parti!”
@@ -102,7 +102,7 @@ mfe5:
   expfr5: Ça <b>vaut le détour</b>.
   expen5: It's worth the trip.
   question2: Et vous, comment aimez-vous vous déplacer?
-  color: 7B6D18
+  color: "#7B6D18"
 
 mfe6:
   intro: “Tu me manques déjà...”
@@ -122,7 +122,7 @@ mfe6:
   expfr4: Je suis <b>en manque de</b> sommeil.
   expen4: I suffer from a lack of sleep.
   question2: Et nous, on vous manque déjà ?
-  color: 86EE9A
+  color: "#86EE9A"
 
 mfe7:
   intro: “J'adore me lever de bonne heure !”
@@ -142,7 +142,7 @@ mfe7:
   expfr4: Oups ! J'ai eu <b>une panne de réveil</b>...
   expen4: Oops! I overslept...
   question2: Et vous, en général, à quelle heure vous levez-vous ?
-  color: CDEDF2
+  color: "#CDEDF2"
 
 mfe8:
   intro: “C’est toi qui décides.”
@@ -162,7 +162,7 @@ mfe8:
   expfr4: <b>Qu’importe </b>!
   expen4: Whatever!
   question2: Et vous, vous préférez le beurre doux ou le beurre demi-sel ?
-  color: FF915C
+  color: "#FF915C"
 
 mfe9:
   intro: “J’ai mon idée sur la question.”
@@ -182,7 +182,7 @@ mfe9:
   expfr4: J’ai <b>mon idée</b> sur la question.
   expen4: I have my own idea on the subject.
   question2: Et vous, comment s'appelle votre amie ?
-  color: D6B2E4
+  color: "#D6B2E4"
 
 mfe10:
   intro: “Il a une curiosité insatiable.”
@@ -202,4 +202,4 @@ mfe10:
   expfr4: Ce livre m'a déçu. Je <b>suis resté sur ma faim</b>.
   expen4: This book disappointed me and left me unsatisfied.
   question2: Et vous, reprendrez-vous un French Expresso ?
-  color: 7CEBD8
+  color: "#7CEBD8"
