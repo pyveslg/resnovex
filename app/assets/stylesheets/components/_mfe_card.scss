@@ -12,3 +12,29 @@
   margin-top: 10px;
   font-weight: bold;
 }
+
+.mfe-card-upp {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.mfe-card-upp-picture {
+  img {
+    width: 100px;
+    padding: 15px 0px;
+  }
+}
+
+.mfe-card-upp-intro {
+  font-size: 12px;
+}
+
+.mfe-card-sub {
+  background-color: white;
+}
+
+.mfe-card-sub-learn {
+  font-size: 16px;
+  padding: 15px 10px;
+}
