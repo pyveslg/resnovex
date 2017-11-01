@@ -13,7 +13,8 @@ class App extends React.Component {
         "id":1,
         "color":"#f9dc24",
         "intro":"C'est un plaisir de vous rencontrer !",
-        "learn":"présenter quelqu'un"
+        "learn":"présenter quelqu'un",
+        "rulefr": "**hello**"
       }
     };
   }

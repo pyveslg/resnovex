@@ -11,6 +11,129 @@
   border-bottom: 10px solid #FCFFFA;
 }
 
+
+.mfe-container {
+  position: relative;
+  margin-top:3em;
+}
+
+#mfe-bar-content {
+  background: linear-gradient(-225deg, rgba(0,150,179,0.6) 0%, rgba(80,207,140,0.6) 80%);
+  height: 5vh;
+}
+
+.mfe-example-content {
+  height: 100%;
+  width: 100%;
+  font-family: Helvetica;
+
+  p {
+
+    color: #202020;
+    font-size: 14px !important;
+  }
+  h4 {
+    color: #3AD093;
+    text-shadow: 0.5px 1px 0 #FFFFFF;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 125%;
+  }
+  h3 {
+    color: #202020;
+    font-size: 42px !important;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 150% !important;
+    letter-spacing: normal;
+    font-family: Helvetica;
+    padding: 0 10px;
+  }
+  ul {
+    text-align: left;
+    li {
+      list-style: none;
+      font-size: 14px !important;
+      line-height: 150%;
+    }
+  }
+}
+
 #mfe-logo img {
-  width: 400px;
+  width: 50%;
+  padding-top: 10vh;
+}
+
+.mfe-intro {
+  padding-top: 10vh;
+  p {
+    padding-top: 0.7em;
+  }
+}
+
+#mfe-learn, #mfe-question, #mfe-rule, #mfe-going-further {
+  margin-top: 7vh;
+  p {
+    padding-top: 0px;
+  }
+  h3 {
+    margin-top: 0px;
+  }
+}
+
+#mfe-question, #mfe-rule, #mfe-going-further {
+  p:first-child {
+    margin-top: 3vh;
+  }
+}
+
+.mfe-subtitle {
+  border-bottom: 10px solid #FCFFFA;
+}
+
+#mfe-answer {
+  text-align: right;
+  padding-top: 5vh;
+  p {
+    font-size: 12px !important;
+  }
+}
+
+#mfe-english {
+  font-size: 12px !important;
+  font-style: italic;
+  margin-top: 5vh;
+}
+
+#mfe-going-further {
+  ul {
+    padding-top: 5vh;
+    li {
+      list-style-type: square;
+    }
+  }
+}
+
+#final-question {
+  margin-top: 5vh;
+}
+
+#mfe-closing-cross {
+  position: fixed;
+  z-index: 2;
+  height: 30px;
+  width: 100px;
+  right: 30vw;
+  bottom: 30vh;
+  padding: 5px 20px 5px 0px;
+  text-align: right;
+  background: white;
+  a {
+    color: $blue;
+  }
+}
+
+.mfe-highlights {
+  background-color:#FCFFFA;
 }

@@ -5,446 +5,446 @@ mfe1:
   option1: Il est mon mari.
   option2: C'est mon mari.
   answer: 1
-  rulefr: Eh oui ! <b>Devant un nom</b>, on utilise <em>“c'est...”</em>.<br/>Mais si vous <b>décrivez</b> la personne, vous utilisez <b>“il est...”</b> ou <b>“elle est...“</b>.<br/>Ex. <em>Mon mari? Il est formidable!</em>
+  rulefr: Eh oui ! **Devant un nom**, on utilise *“c'est...”*.<br/>Mais si vous *décrivez* la personne, vous utilisez **“il est...”** ou **“elle est...“**.<br/>Ex. *Mon mari? Il est formidable!*
   ruleen: Before a noun, always use “c'est...”.<br/>But if you describe someone, you have to use “il est” (he is) or "elle est” (she is).<br/>E.g. My husband ? he is fantastic!
-  expfr1: <b>Voici</b> Pierre ! C'est mon ami.
+  expfr1: "**Voici** Pierre ! C'est mon ami."
   expen1: Here is Pierre! He is my friend.
-  expfr2: Je <b>vous présente</b> Annie.
+  expfr2: Je **vous présente** Annie.
   expen2: Let me introduce you to Annie.
-  expfr3: <b>C'est un plaisir</b> de vous rencontrer.
+  expfr3: "**C'est un plaisir** de vous rencontrer."
   expen3: It's such a pleasure to meet you.
-  expfr4: Allô ? <b>C'est</b> Jean <b>à l'appareil</b>.
+  expfr4: Allô ? **C'est** Jean **à l'appareil**.
   expen4: Hello, Jean speaking.
-  expfr5: On peut <b>se tutoyer</b>.
+  expfr5: On peut **se tutoyer**.
   expen5: Let's use the informal “you”.
   question2: Alors, qui est la personne<br/>à côté de vous ?
   color: "#f9dc24"
 
-mfe2:
-  intro: Je pense, donc je suis
-  learn: donner votre avis
-  question1: "Pour donner votre opinion, vous dites :"
-  option1: Je pense c'est une bonne idée.
-  option2: Je pense que c'est une bonne idée.
-  answer: 2
-  rulefr: Eh oui ! <b>Après le verbe “penser”</b>, s'il y a un sujet (Ex. je, tu, nous, ce, ça...), <b>“que”</b> est <b>obligatoire</b>.<br/>C'est plus strict qu'en anglais. Quand, en anglais, le <em>that</em> est facultatif, en français, le <em>que</em> est impératif !<br/>Et c'est pareil avec les verbes <b>croire, trouver, être sûr</b>...
-  ruleen: If the verb “penser” is followed by a subject like je, tu, nous, ce, ça, etc. , “que” is mandatory.<br/>It's stricter than in English. When using “that” is optional in English, in French, using “que” is essential.<br/>And it works the same with the verbs “to believe”, “to find”, “to be sure” and so on...
-  expfr1: Je <b>le pense aussi</b>.
-  expen1: I think so as well.
-  expfr2: <b>Ça</b> me <b>fait penser</b> à un film.
-  expen2: It reminds me of a movie.
-  expfr3: <b>N'y pense même pas</b> !
-  expen3: Do not even think about it!
-  expfr4: “Je pense, donc je suis” (Descartes)
-  expen4: “I think, therefore I am” (Descartes)
-  expfr5: Et vous, <b>qu'en pensez-vous</b> ?
-  expen5: What do you think about it ?
-  question2: La journée commence bien.<br/>Et vous, qu'en pensez-vous ?
-  color: "#3DEEFA"
+# mfe2:
+#   intro: Je pense, donc je suis
+#   learn: donner votre avis
+#   question1: "Pour donner votre opinion, vous dites :"
+#   option1: Je pense c'est une bonne idée.
+#   option2: Je pense que c'est une bonne idée.
+#   answer: 2
+#   rulefr: Eh oui ! <b>Après le verbe “penser”</b>, s'il y a un sujet (Ex. je, tu, nous, ce, ça...), <b>“que”</b> est <b>obligatoire</b>.<br/>C'est plus strict qu'en anglais. Quand, en anglais, le *that* est facultatif, en français, le <em>que</em> est impératif !<br/>Et c'est pareil avec les verbes <b>croire, trouver, être sûr</b>...
+#   ruleen: If the verb “penser” is followed by a subject like je, tu, nous, ce, ça, etc. , “que” is mandatory.<br/>It's stricter than in English. When using “that” is optional in English, in French, using “que” is essential.<br/>And it works the same with the verbs “to believe”, “to find”, “to be sure” and so on...
+#   expfr1: Je <b>le pense aussi</b>.
+#   expen1: I think so as well.
+#   expfr2: <b>Ça</b> me <b>fait penser</b> à un film.
+#   expen2: It reminds me of a movie.
+#   expfr3: <b>N'y pense même pas</b> !
+#   expen3: Do not even think about it!
+#   expfr4: “Je pense, donc je suis” (Descartes)
+#   expen4: “I think, therefore I am” (Descartes)
+#   expfr5: Et vous, <b>qu'en pensez-vous</b> ?
+#   expen5: What do you think about it ?
+#   question2: La journée commence bien.<br/>Et vous, qu'en pensez-vous ?
+#   color: "#3DEEFA"
 
-mfe3:
-  intro: Il n'y a pas de quoi !
-  learn: répondre à un Merci
-  question1: "Votre collègue vous remercie, vous lui répondez :"
-  option1: Avec plaisir.
-  option2: C'est bienvenu.
-  answer: 1
-  rulefr: Eh oui ! <b><em>“Avec plaisir”</em></b> est une formule courtoise<br/>pour répondre à tout type de remerciement.<br/>Vous pouvez également dire <b><em>“de rien”</em></b> mais cette formule est plus informelle.
-  ruleen: “Avec plaisir” is the polite way to answer any kind of thanks.<br/>You can also answer "de rien" but it is more informal
-  expfr1: Ça me <b>fait plaisir de</b> t'aider.
-  expen1: I am happy to help you.
-  expfr2: <b>Je vous en prie</b>.
-  expen2: You are welcome.
-  expfr3: <b>Tout le plaisir est pour moi</b>.
-  expen3: The pleasure is all mine.
-  expfr4: <b>Il n'y a pas de quoi</b> !
-  expen4: Don't mention it!
-  question2: Et si on vous<br/>disait merci ?
-  color: "#FB56BB"
+# mfe3:
+#   intro: Il n'y a pas de quoi !
+#   learn: répondre à un Merci
+#   question1: "Votre collègue vous remercie, vous lui répondez :"
+#   option1: Avec plaisir.
+#   option2: C'est bienvenu.
+#   answer: 1
+#   rulefr: Eh oui ! <b><em>“Avec plaisir”</em></b> est une formule courtoise<br/>pour répondre à tout type de remerciement.<br/>Vous pouvez également dire <b><em>“de rien”</em></b> mais cette formule est plus informelle.
+#   ruleen: “Avec plaisir” is the polite way to answer any kind of thanks.<br/>You can also answer "de rien" but it is more informal
+#   expfr1: Ça me <b>fait plaisir de</b> t'aider.
+#   expen1: I am happy to help you.
+#   expfr2: <b>Je vous en prie</b>.
+#   expen2: You are welcome.
+#   expfr3: <b>Tout le plaisir est pour moi</b>.
+#   expen3: The pleasure is all mine.
+#   expfr4: <b>Il n'y a pas de quoi</b> !
+#   expen4: Don't mention it!
+#   question2: Et si on vous<br/>disait merci ?
+#   color: "#FB56BB"
 
-mfe4:
-  intro: Je le fais par passion !
-  learn: parler au féminin
-  question1: "Votre ami vous invite chez lui. Pour faire un compliment sur sa maison, vous dites :"
-  option1: J'aime beaucoup le décoration.
-  option2: J'aime beaucoup la décoration.
-  answer: 2
-  rulefr: "Eh oui ! <b>Tous les mots</b> qui se terminent par “<b>-tion</b>“ ou “<b>-sion</b>“ sont féminins !<br/> Ainsi on dit : une question, une action, une condition, une expression, une session.<br/> Mais on dit : un avion, un camion, ...!<br/>Simple comme bonjour, non ?"
-  ruleen: All the words finishing by “-tion“ or “-sion“ are feminine in French.<br/>Who said French was difficult, huh?
-  expfr1: Puis-je <b>poser une question</b> ?
-  expen1: May I ask something?
-  expfr2: Je le fais <b>par passion</b> !
-  expen2: I do it out of passion!
-  expfr3: Il <b>se met</b> vraiment beaucoup <b>de pression</b>.
-  expen3: He puts a really high pressure on himself.
-  expfr4: Il faut savoir <b>résister à la tentation</b> !
-  expen4: One should resist temptation!
-  question2: Alors, trouverez-vous une exception ?
-  color: "#33A7AE"
+# mfe4:
+#   intro: Je le fais par passion !
+#   learn: parler au féminin
+#   question1: "Votre ami vous invite chez lui. Pour faire un compliment sur sa maison, vous dites :"
+#   option1: J'aime beaucoup le décoration.
+#   option2: J'aime beaucoup la décoration.
+#   answer: 2
+#   rulefr: "Eh oui ! <b>Tous les mots</b> qui se terminent par “<b>-tion</b>“ ou “<b>-sion</b>“ sont féminins !<br/> Ainsi on dit : une question, une action, une condition, une expression, une session.<br/> Mais on dit : un avion, un camion, ...!<br/>Simple comme bonjour, non ?"
+#   ruleen: All the words finishing by “-tion“ or “-sion“ are feminine in French.<br/>Who said French was difficult, huh?
+#   expfr1: Puis-je <b>poser une question</b> ?
+#   expen1: May I ask something?
+#   expfr2: Je le fais <b>par passion</b> !
+#   expen2: I do it out of passion!
+#   expfr3: Il <b>se met</b> vraiment beaucoup <b>de pression</b>.
+#   expen3: He puts a really high pressure on himself.
+#   expfr4: Il faut savoir <b>résister à la tentation</b> !
+#   expen4: One should resist temptation!
+#   question2: Alors, trouverez-vous une exception ?
+#   color: "#33A7AE"
 
-mfe5:
-  intro: C'est parti!
-  learn: vous déplacer
-  question1: "Pour parler de votre moyen de transport préféré, vous dites :"
-  option1: Je me déplace toujours en vélo.
-  option2: Je me déplace toujours à vélo.
-  answer: 1
-  rulefr: Eh oui ! Si vous êtes <b>sur</b> un véhicule, vous utilisez la préposition <em><b>à</b></em>.<br/>Mais si vous êtes <b>dans</b> le véhicule, vous utilisez la préposition <em><b>en</b></em> !
-  ruleen: If you are on a vehicle, you must use “à”.<br/>But if you are in the vehicle, “en” is the right preposition to use.
-  expfr1: <b>C'est parti !</b>.
-  expen1: Let's go!
-  expfr2: Je rentre <b>à pied</b>.
-  expen2: I walk home.
-  expfr3: <b>En voiture</b> !
-  expen3: Get in the car!
-  expfr4: Je connais un <b>raccourci</b>.
-  expen4: I know a shortcut.
-  expfr5: Ça <b>vaut le détour</b>.
-  expen5: It's worth the trip.
-  question2: Et vous, comment aimez-vous vous déplacer?
-  color: "#7B6D18"
+# mfe5:
+#   intro: C'est parti!
+#   learn: vous déplacer
+#   question1: "Pour parler de votre moyen de transport préféré, vous dites :"
+#   option1: Je me déplace toujours en vélo.
+#   option2: Je me déplace toujours à vélo.
+#   answer: 1
+#   rulefr: Eh oui ! Si vous êtes <b>sur</b> un véhicule, vous utilisez la préposition <em><b>à</b></em>.<br/>Mais si vous êtes <b>dans</b> le véhicule, vous utilisez la préposition <em><b>en</b></em> !
+#   ruleen: If you are on a vehicle, you must use “à”.<br/>But if you are in the vehicle, “en” is the right preposition to use.
+#   expfr1: <b>C'est parti !</b>.
+#   expen1: Let's go!
+#   expfr2: Je rentre <b>à pied</b>.
+#   expen2: I walk home.
+#   expfr3: <b>En voiture</b> !
+#   expen3: Get in the car!
+#   expfr4: Je connais un <b>raccourci</b>.
+#   expen4: I know a shortcut.
+#   expfr5: Ça <b>vaut le détour</b>.
+#   expen5: It's worth the trip.
+#   question2: Et vous, comment aimez-vous vous déplacer?
+#   color: "#7B6D18"
 
-mfe6:
-  intro: Tu me manques déjà...
-  learn: exprimer votre manque
-  question1: "Votre ami est parti pendant trois mois à l'étranger. Vous lui dites :"
-  option1: Je te manque.
-  option2: Tu me manques.
-  answer: 2
-  rulefr: "Eh oui ! <b>C'est le contraire de l'anglais</b> !<br/>En français, c'est celui qui part qui manque à quelqu'un.<br/>Donc “tu me manques” signifie : “Toi, mon ami, tu es absent et tu manques (à moi).”"
-  ruleen: Just the exact opposite of what we would say in English!
-  expfr1: <b>Tu me manques déjà...</b>
-  expen1: I miss you already...
-  expfr2: Sa copine lui <b>manque</b>.
-  expen2: He misses his girlfriend.
-  expfr3: Il <b>ne manquait plus que</b> ça !
-  expen3: That's the last straw!
-  expfr4: Je suis <b>en manque de</b> sommeil.
-  expen4: I suffer from a lack of sleep.
-  question2: Et nous, on vous manque déjà ?
-  color: "#86EE9A"
+# mfe6:
+#   intro: Tu me manques déjà...
+#   learn: exprimer votre manque
+#   question1: "Votre ami est parti pendant trois mois à l'étranger. Vous lui dites :"
+#   option1: Je te manque.
+#   option2: Tu me manques.
+#   answer: 2
+#   rulefr: "Eh oui ! <b>C'est le contraire de l'anglais</b> !<br/>En français, c'est celui qui part qui manque à quelqu'un.<br/>Donc “tu me manques” signifie : “Toi, mon ami, tu es absent et tu manques (à moi).”"
+#   ruleen: Just the exact opposite of what we would say in English!
+#   expfr1: <b>Tu me manques déjà...</b>
+#   expen1: I miss you already...
+#   expfr2: Sa copine lui <b>manque</b>.
+#   expen2: He misses his girlfriend.
+#   expfr3: Il <b>ne manquait plus que</b> ça !
+#   expen3: That's the last straw!
+#   expfr4: Je suis <b>en manque de</b> sommeil.
+#   expen4: I suffer from a lack of sleep.
+#   question2: Et nous, on vous manque déjà ?
+#   color: "#86EE9A"
 
-mfe7:
-  intro: J'adore me lever de bonne heure !
-  learn: parler de votre réveil
-  question1: "Pour parler de vos habitudes matinales, vous dites :"
-  option1: Le matin, je me lève à 8 heures.
-  option2: Le matin, je lève à 8 heures.
-  answer: 1
-  rulefr: "Eh oui ! Le verbe <em>se lever</em> est <b>pronominal</b> car il a un sens réfléchi (comme un miroir !).<br/>Dans la phrase, <em>je</em> est à la fois le sujet et l'objet de l'action.<br/>Implicitement, <b>je me lève</b> signifie <em>je lève moi-même</em>.<br/>Observez la différence avec : <em>je <b>lève</b> ma fille à 8 heures</em>."
-  ruleen: “se lever“ is a pronominal verb as it has a reflective meaning (like a mirror!).<br/>In the sentence, “je” is both subject and object of the action.<br/>Implicitly, I wake up means I wake up myself.
-  expfr1: En général, <b>je suis matinal</b>.
-  expen1: I am a morning person.
-  expfr2: Pas de réveil ! Demain, je <b>fais la grasse matinée</b>.
-  expen2: Alarm clock turned off! Tomorrow, I will sleep in.
-  expfr3: J'adore me lever <b>de bonne heure</b> !
-  expen3: I love waking up early!
-  expfr4: Oups ! J'ai eu <b>une panne de réveil</b>...
-  expen4: Oops! I overslept...
-  question2: Et vous, en général, à quelle heure vous levez-vous ?
-  color: "#CDEDF2"
+# mfe7:
+#   intro: J'adore me lever de bonne heure !
+#   learn: parler de votre réveil
+#   question1: "Pour parler de vos habitudes matinales, vous dites :"
+#   option1: Le matin, je me lève à 8 heures.
+#   option2: Le matin, je lève à 8 heures.
+#   answer: 1
+#   rulefr: "Eh oui ! Le verbe <em>se lever</em> est <b>pronominal</b> car il a un sens réfléchi (comme un miroir !).<br/>Dans la phrase, <em>je</em> est à la fois le sujet et l'objet de l'action.<br/>Implicitement, <b>je me lève</b> signifie <em>je lève moi-même</em>.<br/>Observez la différence avec : <em>je <b>lève</b> ma fille à 8 heures</em>."
+#   ruleen: “se lever“ is a pronominal verb as it has a reflective meaning (like a mirror!).<br/>In the sentence, “je” is both subject and object of the action.<br/>Implicitly, I wake up means I wake up myself.
+#   expfr1: En général, <b>je suis matinal</b>.
+#   expen1: I am a morning person.
+#   expfr2: Pas de réveil ! Demain, je <b>fais la grasse matinée</b>.
+#   expen2: Alarm clock turned off! Tomorrow, I will sleep in.
+#   expfr3: J'adore me lever <b>de bonne heure</b> !
+#   expen3: I love waking up early!
+#   expfr4: Oups ! J'ai eu <b>une panne de réveil</b>...
+#   expen4: Oops! I overslept...
+#   question2: Et vous, en général, à quelle heure vous levez-vous ?
+#   color: "#CDEDF2"
 
-mfe8:
-  intro: C’est toi qui décides.
-  learn: exprimer votre indifférence
-  question1: "Votre ami vous propose plusieurs activités.<br/>Pour dire que vous n’avez pas de préférence, vous dites :"
-  option1: Tu choisis, c'est égal.
-  option2: Tu choisis, ça m'est égal.
-  answer: 2
-  rulefr: Eh oui ! <em>Ça m'est égal</em> est une <b>expression familière</b> pour dire<br/>que <b>toutes les options proposées vous conviennent</b><br/>et que <b>le choix de l'option finale vous importe peu</b>.
-  ruleen: “ça m'est égal“ is a colloquial expression to say that all the proposed options are OK for you and that you don't bother which of them will be chosen at the end.
-  expfr1: On fera <b>comme tu voudras</b>.
-  expen1: We will do it as you like.
-  expfr2: <b>C’est</b> toi <b>qui décides</b>.
-  expen2: <span style='text-decoration:underline'>You</span> decide.
-  expfr3: <b>Je m’en fiche</b> !
-  expen3: I don't care!
-  expfr4: <b>Qu’importe </b>!
-  expen4: Whatever!
-  question2: Et vous, vous préférez le beurre doux ou le beurre demi-sel ?
-  color: "#FF915C"
+# mfe8:
+#   intro: C’est toi qui décides.
+#   learn: exprimer votre indifférence
+#   question1: "Votre ami vous propose plusieurs activités.<br/>Pour dire que vous n’avez pas de préférence, vous dites :"
+#   option1: Tu choisis, c'est égal.
+#   option2: Tu choisis, ça m'est égal.
+#   answer: 2
+#   rulefr: Eh oui ! <em>Ça m'est égal</em> est une <b>expression familière</b> pour dire<br/>que <b>toutes les options proposées vous conviennent</b><br/>et que <b>le choix de l'option finale vous importe peu</b>.
+#   ruleen: “ça m'est égal“ is a colloquial expression to say that all the proposed options are OK for you and that you don't bother which of them will be chosen at the end.
+#   expfr1: On fera <b>comme tu voudras</b>.
+#   expen1: We will do it as you like.
+#   expfr2: <b>C’est</b> toi <b>qui décides</b>.
+#   expen2: <span style='text-decoration:underline'>You</span> decide.
+#   expfr3: <b>Je m’en fiche</b> !
+#   expen3: I don't care!
+#   expfr4: <b>Qu’importe </b>!
+#   expen4: Whatever!
+#   question2: Et vous, vous préférez le beurre doux ou le beurre demi-sel ?
+#   color: "#FF915C"
 
-mfe9:
-  intro: J’ai mon idée sur la question.
-  learn: annoncer des noms récalcitrants
-  question1: "Pour présenter votre amie, vous dites :"
-  option1: C'est ma amie.
-  option2: C'est mon amie.
-  answer: 2
-  rulefr: Eh oui ! Pour des raisons de <b>phonétique</b>, même si le nom est <b>féminin</b>, on utilise les déterminants masculins <b>“mon”, “ton” ou “son” devant une voyelle</b>.
-  ruleen: For phonetic reasons, even if the noun is feminine, we use the masculine version of my, your, his/her, before every word starting with a vowel.
-  expfr1: <b>Son explication</b> est très claire.
-  expen1: Her explanation is very clear.
-  expfr2: J’aurais besoin de <b>ton aide</b>.
-  expen2: I would need your help.
-  expfr3: <b>Ton opinion</b> compte pour moi !
-  expen3: Your opinion matters to me.
-  expfr4: J’ai <b>mon idée</b> sur la question.
-  expen4: I have my own idea on the subject.
-  question2: Et vous, comment s'appelle votre amie ?
-  color: "#D6B2E4"
+# mfe9:
+#   intro: J’ai mon idée sur la question.
+#   learn: annoncer des noms récalcitrants
+#   question1: "Pour présenter votre amie, vous dites :"
+#   option1: C'est ma amie.
+#   option2: C'est mon amie.
+#   answer: 2
+#   rulefr: Eh oui ! Pour des raisons de <b>phonétique</b>, même si le nom est <b>féminin</b>, on utilise les déterminants masculins <b>“mon”, “ton” ou “son” devant une voyelle</b>.
+#   ruleen: For phonetic reasons, even if the noun is feminine, we use the masculine version of my, your, his/her, before every word starting with a vowel.
+#   expfr1: <b>Son explication</b> est très claire.
+#   expen1: Her explanation is very clear.
+#   expfr2: J’aurais besoin de <b>ton aide</b>.
+#   expen2: I would need your help.
+#   expfr3: <b>Ton opinion</b> compte pour moi !
+#   expen3: Your opinion matters to me.
+#   expfr4: J’ai <b>mon idée</b> sur la question.
+#   expen4: I have my own idea on the subject.
+#   question2: Et vous, comment s'appelle votre amie ?
+#   color: "#D6B2E4"
 
-mfe10:
-  intro: Il a une curiosité insatiable.
-  learn: exprimer votre appétit
-  question1: "Pour dire qu'il est l'heure de manger, vous dites :"
-  option1: J'ai faim.
-  option2: Je suis faim.
-  answer: 1
-  rulefr: Eh oui ! Ce n'est pas comme en anglais...<br/>Pour <b>exprimer la faim ou la soif</b>, on utilise toujours le verbe <b>avoir</b>.
-  ruleen: Do not fall into the trap !<br/> In French, to say if we are hungry or thirsty, we always use the verb "avoir"... not "être"!
-  expfr1: J'ai <b>une faim de loup</b> !
-  expen1: I am very hungry!
-  expfr2: Ces chips m'<b>ont donné soif</b>...
-  expen2: These crisps made me thirsty.
-  expfr3: Il a une <b>curiosité insatiable</b> !
-  expen3: He shows an insatiable curiosity.
-  expfr4: Ce livre m'a déçu. Je <b>suis resté sur ma faim</b>.
-  expen4: This book disappointed me and left me unsatisfied.
-  question2: Et vous, reprendrez-vous un French Expresso ?
-  color: "#7CEBD8"
+# mfe10:
+#   intro: Il a une curiosité insatiable.
+#   learn: exprimer votre appétit
+#   question1: "Pour dire qu'il est l'heure de manger, vous dites :"
+#   option1: J'ai faim.
+#   option2: Je suis faim.
+#   answer: 1
+#   rulefr: Eh oui ! Ce n'est pas comme en anglais...<br/>Pour <b>exprimer la faim ou la soif</b>, on utilise toujours le verbe <b>avoir</b>.
+#   ruleen: Do not fall into the trap !<br/> In French, to say if we are hungry or thirsty, we always use the verb "avoir"... not "être"!
+#   expfr1: J'ai <b>une faim de loup</b> !
+#   expen1: I am very hungry!
+#   expfr2: Ces chips m'<b>ont donné soif</b>...
+#   expen2: These crisps made me thirsty.
+#   expfr3: Il a une <b>curiosité insatiable</b> !
+#   expen3: He shows an insatiable curiosity.
+#   expfr4: Ce livre m'a déçu. Je <b>suis resté sur ma faim</b>.
+#   expen4: This book disappointed me and left me unsatisfied.
+#   question2: Et vous, reprendrez-vous un French Expresso ?
+#   color: "#7CEBD8"
 
-mfe11:
-  intro: Et pendant ce temps-là, je t’attendais.
-  learn: parler d'un moment
-  question1: "Pour parler de la durée de votre voyage, vous dites :"
-  option1: On a voyagé pour 2 semaines.
-  option2: On a voyagé pendant 2 semaines.
-  answer: 2
-  rulefr: Eh oui ! <b><em>Pendant</em></b> introduit une <b>durée certaine ou effective</b><br/>alors que <b><em>pour</em></b> indique une <b>durée prévisionnelle</b>.<br/>Puisque le voyage est terminé, on sait combien de temps le voyage a duré.<em>Pendant</em> est donc la seule possibilité !
-  ruleen: “Pendant” underlies a certain or actual duration whereas "pour" relates to an expected duration.<br/>As the travel is over, we definitely know how many times it lasted.<br/>“Pendant” is therefore the only possible choice.
-  expfr1: J’ai visité Toulouse <b>pendant</b> mes vacances.
-  expen1: I visited Toulouse on my holidays.
-  expfr2: Je me repose <b>pendant que</b> Louis étudie.
-  expen2: I'm relaxing while Louis is studying.
-  expfr3: Et <b>pendant ce temps-là</b>, je t’attendais.
-  expen3: Meanwhile, I was waiting for you.
-  expfr4: <b>Pendant que j’y suis</b>, je peux te demander un service ?
-  expen4: While I am on it, may I ask you a favor?
-  question2: Et vous, pour vos dernières vacances, êtes-vous parti longtemps ?
-  color: "#E9C554"
+# mfe11:
+#   intro: Et pendant ce temps-là, je t’attendais.
+#   learn: parler d'un moment
+#   question1: "Pour parler de la durée de votre voyage, vous dites :"
+#   option1: On a voyagé pour 2 semaines.
+#   option2: On a voyagé pendant 2 semaines.
+#   answer: 2
+#   rulefr: Eh oui ! <b><em>Pendant</em></b> introduit une <b>durée certaine ou effective</b><br/>alors que <b><em>pour</em></b> indique une <b>durée prévisionnelle</b>.<br/>Puisque le voyage est terminé, on sait combien de temps le voyage a duré.<em>Pendant</em> est donc la seule possibilité !
+#   ruleen: “Pendant” underlies a certain or actual duration whereas "pour" relates to an expected duration.<br/>As the travel is over, we definitely know how many times it lasted.<br/>“Pendant” is therefore the only possible choice.
+#   expfr1: J’ai visité Toulouse <b>pendant</b> mes vacances.
+#   expen1: I visited Toulouse on my holidays.
+#   expfr2: Je me repose <b>pendant que</b> Louis étudie.
+#   expen2: I'm relaxing while Louis is studying.
+#   expfr3: Et <b>pendant ce temps-là</b>, je t’attendais.
+#   expen3: Meanwhile, I was waiting for you.
+#   expfr4: <b>Pendant que j’y suis</b>, je peux te demander un service ?
+#   expen4: While I am on it, may I ask you a favor?
+#   question2: Et vous, pour vos dernières vacances, êtes-vous parti longtemps ?
+#   color: "#E9C554"
 
-mfe12:
-  intro: L’enfant apprend par mimétisme.
-  learn: parler au masculin
-  question1: "Pour parler de votre passion pour un célèbre courant artistique, vous dites :"
-  option1: J’adore le cubisme.
-  option2: J’adore la cubisme.
-  answer: 1
-  rulefr: Eh oui ! <b>Tous les mots qui se terminent par <em>-isme</em> sont masculins</b>.<br/>Simple comme bonjour, non ?
-  ruleen: Every single French word finishing with “-isme” is masculine.<br/>Easy as pie, right ?!
-  expfr1: L’enfant apprend <b>par mimétisme</b>.
-  expen1: Children learn by mimicry.
-  expfr2: Martin <b>est d’un égoïsme fou</b> !
-  expen2: Martin is so damn selfish!
-  expfr3: Il <b>fait preuve de réalisme</b>.
-  expen3: He shows realism.
-  expfr4: Ça apporte toujours <b>une touche de romantisme</b> !
-  expen4: It always adds a touch of romanticism!
-  question2: Et vous, quel est votre courant artistique préféré ?
-  color: "#BB5760"
+# mfe12:
+#   intro: L’enfant apprend par mimétisme.
+#   learn: parler au masculin
+#   question1: "Pour parler de votre passion pour un célèbre courant artistique, vous dites :"
+#   option1: J’adore le cubisme.
+#   option2: J’adore la cubisme.
+#   answer: 1
+#   rulefr: Eh oui ! <b>Tous les mots qui se terminent par <em>-isme</em> sont masculins</b>.<br/>Simple comme bonjour, non ?
+#   ruleen: Every single French word finishing with “-isme” is masculine.<br/>Easy as pie, right ?!
+#   expfr1: L’enfant apprend <b>par mimétisme</b>.
+#   expen1: Children learn by mimicry.
+#   expfr2: Martin <b>est d’un égoïsme fou</b> !
+#   expen2: Martin is so damn selfish!
+#   expfr3: Il <b>fait preuve de réalisme</b>.
+#   expen3: He shows realism.
+#   expfr4: Ça apporte toujours <b>une touche de romantisme</b> !
+#   expen4: It always adds a touch of romanticism!
+#   question2: Et vous, quel est votre courant artistique préféré ?
+#   color: "#BB5760"
 
-mfe13:
-  intro: Ça va aller...
-  learn: rassurer quelqu'un
-  question1: "Votre collègue est stressé avant une réunion.<br/>Pour le rassurer, vous dites :"
-  option1: Ne te préoccupe pas !
-  option2: Ne t’inquiète pas !
-  answer: 2
-  rulefr: Eh oui ! <b><em>Ne t'inquiète pas</em></b> est une expression courante <b>pour rassurer ou calmer une personne</b> qui manifeste de la crainte ou de l'appréhension.
-  ruleen: “ne t'inquiète pas” is a common idiom to calm down or to reassure someone who obviously is feeling a bit anxious. Bobby McFerrin may know it already...
-  expfr1: <b>Ça va aller</b>...
-  expen1: It's gonna be ok...
-  expfr2: <b>Calme-toi</b>, tout va bien !
-  expen2: Calm down, everything's fine!
-  expfr3: Tu <b>t’inquiètes</b> pour rien !
-  expen3: You worry for anything!
-  expfr4: <b>Ne t’en fais pas</b>, on va trouver une solution.
-  expen4: Don't worry, we'll find a solution.
-  question2: Ohlala, j'ai mangé deux croissants au petit-déjeuner !
-  color: "#0BD7FC"
+# mfe13:
+#   intro: Ça va aller...
+#   learn: rassurer quelqu'un
+#   question1: "Votre collègue est stressé avant une réunion.<br/>Pour le rassurer, vous dites :"
+#   option1: Ne te préoccupe pas !
+#   option2: Ne t’inquiète pas !
+#   answer: 2
+#   rulefr: Eh oui ! <b><em>Ne t'inquiète pas</em></b> est une expression courante <b>pour rassurer ou calmer une personne</b> qui manifeste de la crainte ou de l'appréhension.
+#   ruleen: “ne t'inquiète pas” is a common idiom to calm down or to reassure someone who obviously is feeling a bit anxious. Bobby McFerrin may know it already...
+#   expfr1: <b>Ça va aller</b>...
+#   expen1: It's gonna be ok...
+#   expfr2: <b>Calme-toi</b>, tout va bien !
+#   expen2: Calm down, everything's fine!
+#   expfr3: Tu <b>t’inquiètes</b> pour rien !
+#   expen3: You worry for anything!
+#   expfr4: <b>Ne t’en fais pas</b>, on va trouver une solution.
+#   expen4: Don't worry, we'll find a solution.
+#   question2: Ohlala, j'ai mangé deux croissants au petit-déjeuner !
+#   color: "#0BD7FC"
 
-mfe14:
-  intro: Au fait, ça te dirait de venir ?
-  learn: dire où vous allez
-  question1: "Pour parler de votre soirée de la veille, vous dites :"
-  option1: Je suis allé à le cinéma.
-  option2: Je suis allé au cinéma.
-  answer: 2
-  rulefr: "Eh oui ! Mis côte à côte, <b><em>à + le</em></b> fusionnent et deviennent <b><em>au</em></b>.<br/>Au pluriel aussi : <b><em>à + les</em></b> deviennent <b><em>aux</em></b>."
-  ruleen: I am going to the swimming pool. In French, to is translated by “à”.<br/>But when used side by side, “à + le” merge and become “au”.<br/>In the same way, “à + les” (plural) become “aux”.
-  expfr1: C’est le café <b>au bout de</b> la rue.
-  expen1: It's the café down the street.
-  expfr2: <b>Au fait</b>, ça te dirait de venir ?
-  expen2: By the way, would you like to come?
-  expfr3: Je te <b>tiens au courant</b>.
-  expen3: I will let you know.
-  expfr4: Je réserve toujours <b>au dernier moment</b> !
-  expen4: I always make last-minute reservation!
-  question2: Et vous,<br/>où êtes-vous allé hier ?
-  color: "#FEF873"
+# mfe14:
+#   intro: Au fait, ça te dirait de venir ?
+#   learn: dire où vous allez
+#   question1: "Pour parler de votre soirée de la veille, vous dites :"
+#   option1: Je suis allé à le cinéma.
+#   option2: Je suis allé au cinéma.
+#   answer: 2
+#   rulefr: "Eh oui ! Mis côte à côte, <b><em>à + le</em></b> fusionnent et deviennent <b><em>au</em></b>.<br/>Au pluriel aussi : <b><em>à + les</em></b> deviennent <b><em>aux</em></b>."
+#   ruleen: I am going to the swimming pool. In French, to is translated by “à”.<br/>But when used side by side, “à + le” merge and become “au”.<br/>In the same way, “à + les” (plural) become “aux”.
+#   expfr1: C’est le café <b>au bout de</b> la rue.
+#   expen1: It's the café down the street.
+#   expfr2: <b>Au fait</b>, ça te dirait de venir ?
+#   expen2: By the way, would you like to come?
+#   expfr3: Je te <b>tiens au courant</b>.
+#   expen3: I will let you know.
+#   expfr4: Je réserve toujours <b>au dernier moment</b> !
+#   expen4: I always make last-minute reservation!
+#   question2: Et vous,<br/>où êtes-vous allé hier ?
+#   color: "#FEF873"
 
-mfe15:
-  intro: J’en ai entendu parler.
-  learn: partager votre connaissance
-  question1: "Pour demander à quelqu'un de vous aider à trouver une solution, vous dites :"
-  option1: Est-ce que tu sais comment je peux faire ?
-  option2: Est-ce que tu connais comment je peux faire ?
-  answer: 1
-  rulefr: Eh oui ! Devant un adverbe interrogatif comme<br/><b><em>quand, où, comment, pourquoi, qui, que, quel,</em></b> etc,<br/>on emploie toujours <b><em>savoir</b></em>, et non <em>connaître</em>.
-  ruleen: Before an interrogative adverb like when, where, how, why, who, what, which...<br/>we always use the French verb "savoir". "Connaître" cannot apply.
-  expfr1: Je <b>sais</b> !
-  expen1: I know!
-  expfr2: Je te <b>connais</b> bien.
-  expen2: I do know you well.
-  expfr3: Je <b>suis au courant</b> !
-  expen3: I know! (I heard about it).
-  expfr4: J’<b>en</b> ai <b>entendu parler</b>.
-  expen4: I heard about it.
-  question2: Alors, savez-vous comment utiliser connaître?
-  color: "#00FF67"
+# mfe15:
+#   intro: J’en ai entendu parler.
+#   learn: partager votre connaissance
+#   question1: "Pour demander à quelqu'un de vous aider à trouver une solution, vous dites :"
+#   option1: Est-ce que tu sais comment je peux faire ?
+#   option2: Est-ce que tu connais comment je peux faire ?
+#   answer: 1
+#   rulefr: Eh oui ! Devant un adverbe interrogatif comme<br/><b><em>quand, où, comment, pourquoi, qui, que, quel,</em></b> etc,<br/>on emploie toujours <b><em>savoir</b></em>, et non <em>connaître</em>.
+#   ruleen: Before an interrogative adverb like when, where, how, why, who, what, which...<br/>we always use the French verb "savoir". "Connaître" cannot apply.
+#   expfr1: Je <b>sais</b> !
+#   expen1: I know!
+#   expfr2: Je te <b>connais</b> bien.
+#   expen2: I do know you well.
+#   expfr3: Je <b>suis au courant</b> !
+#   expen3: I know! (I heard about it).
+#   expfr4: J’<b>en</b> ai <b>entendu parler</b>.
+#   expen4: I heard about it.
+#   question2: Alors, savez-vous comment utiliser connaître?
+#   color: "#00FF67"
 
-mfe16:
-  intro: C’est la belle vie !
-  learn: philosopher
-  question1: "Pour dire que vous êtes heureux dans votre nouvelle ville, vous dites :"
-  option1: La vie à Paris, c’est extraordinaire !
-  option2: Une vie à Paris, c’est extraordinaire !
-  answer: 0
-  rulefr: "Eh oui ! Mais <b>le sens est différent</b>...<br/>a) signifie <em>la vie <b>en général</b></em>, autrement dit : “<b>vivre à Paris</b>, c'est extraordinaire”.<br/>b) signifie <em>une vie <b>en particulier</b></em>, autrement dit : “<b>vivre une vie entière</b> à Paris, c'est extraordinaire”."
-  ruleen: Both can be used ? Indeed ! But both have different meanings<br/>a) means life in general... "living in Paris is extraordinary"<br/>b) means a life in particular... "Living a whole life in Paris is extraordinary"<br/>A little bit tricky right ?
-  expfr1: C’est <b>la belle vie</b> !
-  expen1: That's a good life!
-  expfr2: Elle vit <b>au jour le jour</b>.
-  expen2: She's living from day to day.
-  expfr3: <b>Le bonheur</b> est fait de petites choses.
-  expen3: Happiness is made up of little things.
-  expfr4: Il <b>fait le bien autour de</b> lui.
-  expen4: He brings happiness to people who are around him.
-  question2: Et vous, parler français<br/>vous apporte une joie de<br/>vivre ou la joie de vivre ?
-  color: "#EE0649"
+# mfe16:
+#   intro: C’est la belle vie !
+#   learn: philosopher
+#   question1: "Pour dire que vous êtes heureux dans votre nouvelle ville, vous dites :"
+#   option1: La vie à Paris, c’est extraordinaire !
+#   option2: Une vie à Paris, c’est extraordinaire !
+#   answer: 0
+#   rulefr: "Eh oui ! Mais <b>le sens est différent</b>...<br/>a) signifie <em>la vie <b>en général</b></em>, autrement dit : “<b>vivre à Paris</b>, c'est extraordinaire”.<br/>b) signifie <em>une vie <b>en particulier</b></em>, autrement dit : “<b>vivre une vie entière</b> à Paris, c'est extraordinaire”."
+#   ruleen: Both can be used ? Indeed ! But both have different meanings<br/>a) means life in general... "living in Paris is extraordinary"<br/>b) means a life in particular... "Living a whole life in Paris is extraordinary"<br/>A little bit tricky right ?
+#   expfr1: C’est <b>la belle vie</b> !
+#   expen1: That's a good life!
+#   expfr2: Elle vit <b>au jour le jour</b>.
+#   expen2: She's living from day to day.
+#   expfr3: <b>Le bonheur</b> est fait de petites choses.
+#   expen3: Happiness is made up of little things.
+#   expfr4: Il <b>fait le bien autour de</b> lui.
+#   expen4: He brings happiness to people who are around him.
+#   question2: Et vous, parler français<br/>vous apporte une joie de<br/>vivre ou la joie de vivre ?
+#   color: "#EE0649"
 
-mfe17:
-  intro: Mieux vaut tard que jamais.
-  learn: ne pas être ponctuel
-  question1: "Vous n'arrivez pas à l'heure à un rendez-vous, vous dites :"
-  option1: Désolé, je suis tard.
-  option2: Désolé, je suis en retard.
-  answer: 2
-  rulefr: Eh oui ! <b>“tard”</b> se réfère <b>au moment de la journée</b>. Son contraire est <b>“tôt”</b>.<br/><b>“en retard”</b> se réfère à <b>l'heure prévue</b>. Son contraire est <b>“en avance”</b>.<br/>Si vous hésitez, c'est simple !<br/>Demandez-vous si vous êtes “tôt” ou “en avance“ !
-  ruleen: "He's late = “il est en retard”. It's late = “il est tard”.<br/>If you wonder which one to use in French, think to its contraries:<br/>”tôt” for “tard” and “en avance” for “en retard“.<br/>If “tôt“ should be used, right answer is “tard“. It works the same for ”en avance/en retard” !"
-  expfr1: J'ai 10 minutes <b>de retard</b>.
-  expen1: I'm 10 minutes late.
-  expfr2: J'ai <b>du travail en retard</b>.
-  expen2: I'm behind with my work.
-  expfr3: <b>Il se fait tard</b>.
-  expen3: It's getting late.
-  expfr4: Je suis <b>à la bourre</b>!
-  expen4: I'm so late! (informal)
-  expfr5: <b>Mieux vaut tard que jamais</b>.
-  expen5: Better late than never.
-  question2: Et vous, êtes-vous toujours ponctuel ?
-  color: "#16D9E6"
+# mfe17:
+#   intro: Mieux vaut tard que jamais.
+#   learn: ne pas être ponctuel
+#   question1: "Vous n'arrivez pas à l'heure à un rendez-vous, vous dites :"
+#   option1: Désolé, je suis tard.
+#   option2: Désolé, je suis en retard.
+#   answer: 2
+#   rulefr: Eh oui ! <b>“tard”</b> se réfère <b>au moment de la journée</b>. Son contraire est <b>“tôt”</b>.<br/><b>“en retard”</b> se réfère à <b>l'heure prévue</b>. Son contraire est <b>“en avance”</b>.<br/>Si vous hésitez, c'est simple !<br/>Demandez-vous si vous êtes “tôt” ou “en avance“ !
+#   ruleen: "He's late = “il est en retard”. It's late = “il est tard”.<br/>If you wonder which one to use in French, think to its contraries:<br/>”tôt” for “tard” and “en avance” for “en retard“.<br/>If “tôt“ should be used, right answer is “tard“. It works the same for ”en avance/en retard” !"
+#   expfr1: J'ai 10 minutes <b>de retard</b>.
+#   expen1: I'm 10 minutes late.
+#   expfr2: J'ai <b>du travail en retard</b>.
+#   expen2: I'm behind with my work.
+#   expfr3: <b>Il se fait tard</b>.
+#   expen3: It's getting late.
+#   expfr4: Je suis <b>à la bourre</b>!
+#   expen4: I'm so late! (informal)
+#   expfr5: <b>Mieux vaut tard que jamais</b>.
+#   expen5: Better late than never.
+#   question2: Et vous, êtes-vous toujours ponctuel ?
+#   color: "#16D9E6"
 
-mfe18:
-  intro: Qui ne tente rien n'a rien.
-  learn: parler d'un sujet en particulier
-  question1: "Pour demander à votre collègue de vous donner un dossier en particulier, vous dites :"
-  option1: Passe-moi le dossier qu'est sur la table.
-  option2: Passe-moi le dossier qui est sur la table.
-  answer: 2
-  rulefr: Eh oui ! <b>“qu'”</b> vous semblerait plus exact devant un mot qui commence par une voyelle...<br/>comme <b>le</b> ou <b>la</b> qui deviennent <b>l'</b>, ou <b>que</b> qui devient <b>qu'</b>...<br/>Mais <b>qui</b> est <b>une exception</b> et <b>ne s'élide jamais</b> devant une voyelle.
-  ruleen: "“qu' ” might look to you more accurate as “qui” is just followed by a word starting with a vowel.<br/>That's what would definitely happen in nearly all situations :<br/>“le” and “la” would lose their final vowel as well as “que“ that would become ”qu' ”.<br/>“Qui” is THE exception and will always remain the same whatever the following word starts with!"
-  expfr1: <b>Qui ne tente rien n'a rien</b>.
-  expen1: Who dares wins!
-  expfr2: Essaye-le ! <b>Qui sait</b>... ça t'ira peut-être !
-  expen2: Try it on! Who knows... it might suit you!
-  expfr3: Ça m'<b>enquiquine</b> un peu...
-  expen3: That bothers me a little. (casual)
-  expfr4: <b>Ça, c'est toi qui le dis</b>.
-  expen4: <span style="text-decoration:underline;">You</span> say so. (= still needs to be proven)
-  question2: Alors, qu'est-ce donc ce “qui” qui vous enquiquine ?
-  color: "#A74FE0"
+# mfe18:
+#   intro: Qui ne tente rien n'a rien.
+#   learn: parler d'un sujet en particulier
+#   question1: "Pour demander à votre collègue de vous donner un dossier en particulier, vous dites :"
+#   option1: Passe-moi le dossier qu'est sur la table.
+#   option2: Passe-moi le dossier qui est sur la table.
+#   answer: 2
+#   rulefr: Eh oui ! <b>“qu'”</b> vous semblerait plus exact devant un mot qui commence par une voyelle...<br/>comme <b>le</b> ou <b>la</b> qui deviennent <b>l'</b>, ou <b>que</b> qui devient <b>qu'</b>...<br/>Mais <b>qui</b> est <b>une exception</b> et <b>ne s'élide jamais</b> devant une voyelle.
+#   ruleen: "“qu' ” might look to you more accurate as “qui” is just followed by a word starting with a vowel.<br/>That's what would definitely happen in nearly all situations :<br/>“le” and “la” would lose their final vowel as well as “que“ that would become ”qu' ”.<br/>“Qui” is THE exception and will always remain the same whatever the following word starts with!"
+#   expfr1: <b>Qui ne tente rien n'a rien</b>.
+#   expen1: Who dares wins!
+#   expfr2: Essaye-le ! <b>Qui sait</b>... ça t'ira peut-être !
+#   expen2: Try it on! Who knows... it might suit you!
+#   expfr3: Ça m'<b>enquiquine</b> un peu...
+#   expen3: That bothers me a little. (casual)
+#   expfr4: <b>Ça, c'est toi qui le dis</b>.
+#   expen4: <span style="text-decoration:underline;">You</span> say so. (= still needs to be proven)
+#   question2: Alors, qu'est-ce donc ce “qui” qui vous enquiquine ?
+#   color: "#A74FE0"
 
-mfe19:
-  intro: Je n'ai pas envie de travailler.
-  learn: fêter un jour férié
-  question1: "Nous sommes le 1er mai en France.<br/>Vous vous levez et vous dites :"
-  option1: Aujourd'hui, je vais travailler.
-  option2: Aujourd'hui, je ne vais pas travailler.
-  answer: 2
-  rulefr: Eh oui ! En France, <b>le 1er mai c'est la fête du travail</b>.<br/>Et les français fêtent le travail... <b>en n'allant pas travailler du tout</b> !<br/>Ce jour là, il est coutume d'<b>offrir un brin de muguet</b> aux personnes que l'on aime.<br/><b>Ça porte bonheur</b>.
-  ruleen: In France, the 1st of may is the Labour Day. French people celebrates work by having a day... off !<br/>That very day, it is usual to offer a few lilies to people we love for good fortune.
-  expfr1: <b>Je n'ai pas envie de travailler.</b>.
-  expen1: I don't want to work.
-  expfr2: Je vais <b>bien me reposer</b>.
-  expen2: I'll get some good rest.
-  expfr3: Vivement <b>un week-end prolongé</b>...
-  expen3: Can't wait for a long week-end...
-  expfr4: Un <b>jour férié</b> est <b>un jour chômé</b>.
-  expen4: A public holiday is a non-working day.
-  question2: Alors, bon jour férié !
-  color: "#ED4547"
+# mfe19:
+#   intro: Je n'ai pas envie de travailler.
+#   learn: fêter un jour férié
+#   question1: "Nous sommes le 1er mai en France.<br/>Vous vous levez et vous dites :"
+#   option1: Aujourd'hui, je vais travailler.
+#   option2: Aujourd'hui, je ne vais pas travailler.
+#   answer: 2
+#   rulefr: Eh oui ! En France, <b>le 1er mai c'est la fête du travail</b>.<br/>Et les français fêtent le travail... <b>en n'allant pas travailler du tout</b> !<br/>Ce jour là, il est coutume d'<b>offrir un brin de muguet</b> aux personnes que l'on aime.<br/><b>Ça porte bonheur</b>.
+#   ruleen: In France, the 1st of may is the Labour Day. French people celebrates work by having a day... off !<br/>That very day, it is usual to offer a few lilies to people we love for good fortune.
+#   expfr1: <b>Je n'ai pas envie de travailler.</b>.
+#   expen1: I don't want to work.
+#   expfr2: Je vais <b>bien me reposer</b>.
+#   expen2: I'll get some good rest.
+#   expfr3: Vivement <b>un week-end prolongé</b>...
+#   expen3: Can't wait for a long week-end...
+#   expfr4: Un <b>jour férié</b> est <b>un jour chômé</b>.
+#   expen4: A public holiday is a non-working day.
+#   question2: Alors, bon jour férié !
+#   color: "#ED4547"
 
-mfe20:
-  intro: Faites comme chez vous!
-  learn: parler local
-  question1: "Vous devez aller voir un médecin, vous dites :"
-  option1: Je vais au médecin.
-  option2: Je vais chez le médecin.
-  answer: 2
-  rulefr: Eh oui ! Si vous parlez <b>de la personne</b> (le médecin), la préposition adéquate est <em><b>chez</b></em>.<br/>Mais si vous parlez du <b>magasin</b> ou du <b>local</b>, vous utilisez la préposition <em><b>à</b></em>.<br/>Observez la différence entre “je vais <em><b>à</b></em> l'épicerie” et “je vais <em><b>chez</b></em> l'épicier”.
-  ruleen: "If you speak about the owner of the store where you go, the right preposition is “chez”.<br/>But if you mean only the store where you go, you must use the “à” preposition.<br/>In a nutshell : you go “chez” + person or “à” + store."
-  expfr1: <b>Chez moi</b>, c’est une habitude.
-  expen1: It's my habit.
-  expfr2: <b>Faites comme chez vous </b>!
-  expen2: Do as you wish!
-  expfr3: C’est un plat <b>bien de chez nous</b>.
-  expen3: It's a traditional local dish.
-  expfr4: Bienvenu dans <b>mon chez-moi</b> !
-  expen4: Welcome home!
-  question2: Et vous, où êtes-vous en ce moment ?
-  color: "#FFA648"
+# mfe20:
+#   intro: Faites comme chez vous!
+#   learn: parler local
+#   question1: "Vous devez aller voir un médecin, vous dites :"
+#   option1: Je vais au médecin.
+#   option2: Je vais chez le médecin.
+#   answer: 2
+#   rulefr: Eh oui ! Si vous parlez <b>de la personne</b> (le médecin), la préposition adéquate est <em><b>chez</b></em>.<br/>Mais si vous parlez du <b>magasin</b> ou du <b>local</b>, vous utilisez la préposition <em><b>à</b></em>.<br/>Observez la différence entre “je vais <em><b>à</b></em> l'épicerie” et “je vais <em><b>chez</b></em> l'épicier”.
+#   ruleen: "If you speak about the owner of the store where you go, the right preposition is “chez”.<br/>But if you mean only the store where you go, you must use the “à” preposition.<br/>In a nutshell : you go “chez” + person or “à” + store."
+#   expfr1: <b>Chez moi</b>, c’est une habitude.
+#   expen1: It's my habit.
+#   expfr2: <b>Faites comme chez vous </b>!
+#   expen2: Do as you wish!
+#   expfr3: C’est un plat <b>bien de chez nous</b>.
+#   expen3: It's a traditional local dish.
+#   expfr4: Bienvenu dans <b>mon chez-moi</b> !
+#   expen4: Welcome home!
+#   question2: Et vous, où êtes-vous en ce moment ?
+#   color: "#FFA648"
 
-mfe21:
-  intro: Je me rappelle de tout.
-  learn: parler d'un souvenir
-  question1: "Pour parler d’un souvenir d’enfance, vous dites :"
-  option1: Quand j’ai été petit, je jouais dans le jardin.
-  option2: Quand j’étais petit, je jouais dans le jardin.
-  answer: 2
-  rulefr: "Eh oui ! Pour parler d'une <b>période passée, indéfinie dans le temps</b>, on utilise <b>l'imparfait</b>.<br/><em>“Être petit”</em> : <b>on ne sait pas à quel âge ça commence ni à quel âge ça finit exactement</b>...<em>“j'étais”</em> est donc la <b>seule</b> possibilité."
-  ruleen: "To talk about an indefinite past period, we used the imperfect tense.<br/>To be a child... no one knows exactly at which age it starts and when it really finishes...<br/>Imperfect tense is the only option left."
-  expfr1: Je <b>me rappelle</b> de tout.
-  expen1: I can remember everything.
-  expfr2: Tu as raison, <b>ça me revient</b> maintenant.
-  expen2: You're right, I can remember now.
-  expfr3: <b>Je m’en souviens comme si c’était hier</b>.
-  expen3: I remember this like it was yesterday.
-  expfr4: <b>Ce souvenir est resté gravé</b>.
-  expen4: This stayed etched in my memory.
-  question2: Et vous, quand vous étiez enfant, quelle était votre activité favorite ?
-  color: "#C2FF68"
+# mfe21:
+#   intro: Je me rappelle de tout.
+#   learn: parler d'un souvenir
+#   question1: "Pour parler d’un souvenir d’enfance, vous dites :"
+#   option1: Quand j’ai été petit, je jouais dans le jardin.
+#   option2: Quand j’étais petit, je jouais dans le jardin.
+#   answer: 2
+#   rulefr: "Eh oui ! Pour parler d'une <b>période passée, indéfinie dans le temps</b>, on utilise <b>l'imparfait</b>.<br/><em>“Être petit”</em> : <b>on ne sait pas à quel âge ça commence ni à quel âge ça finit exactement</b>...<em>“j'étais”</em> est donc la <b>seule</b> possibilité."
+#   ruleen: "To talk about an indefinite past period, we used the imperfect tense.<br/>To be a child... no one knows exactly at which age it starts and when it really finishes...<br/>Imperfect tense is the only option left."
+#   expfr1: Je <b>me rappelle</b> de tout.
+#   expen1: I can remember everything.
+#   expfr2: Tu as raison, <b>ça me revient</b> maintenant.
+#   expen2: You're right, I can remember now.
+#   expfr3: <b>Je m’en souviens comme si c’était hier</b>.
+#   expen3: I remember this like it was yesterday.
+#   expfr4: <b>Ce souvenir est resté gravé</b>.
+#   expen4: This stayed etched in my memory.
+#   question2: Et vous, quand vous étiez enfant, quelle était votre activité favorite ?
+#   color: "#C2FF68"
 
-mfe22:
-  intro: Quelle horreur !
-  learn: détester
-  question1: "Pour dire que vous n’aimez pas prendre le métro, vous dites :"
-  option1: J’ai horreur du métro.
-  option2: J’ai haine du métro.
-  answer: 1
-  rulefr: "Eh oui ! <b><em>“avoir horreur de”</em></b> est un synonyme du verbe <b><em>“détester”</b></em>.<br/>On peut l'utiliser pour parler d'<b>un objet, d'une action, d'un comportement ou de quelqu'un</b>."
-  ruleen: "“avoir horreur de” means to hate.<br/>We can use it with anything we hate : an object, an action, a behavior or even someone.<br/>We hope that you won't have to use it too often !"
-  expfr1: L’autoroute le 15 août, <b>quelle horreur</b> !
-  expen1: Driving on a highway on mid-August is such a nightmare!
-  expfr2: Il <b>est insupportable</b> en ce moment.
-  expen2: He is being so unbearable.
-  expfr3: Je <b>ne supporte pas</b> les magasins le samedi.
-  expen3: I hate shopping on Saturdays.
-  expfr4: La violence <b>me fait horreur</b>.
-  expen4: Violence horrifies me.
-  question2: Et vous, avez-vous déjà pris le métro parisien à une heure de pointe ?
-  color: "#DAD1E6"
+# mfe22:
+#   intro: Quelle horreur !
+#   learn: détester
+#   question1: "Pour dire que vous n’aimez pas prendre le métro, vous dites :"
+#   option1: J’ai horreur du métro.
+#   option2: J’ai haine du métro.
+#   answer: 1
+#   rulefr: "Eh oui ! <b><em>“avoir horreur de”</em></b> est un synonyme du verbe <b><em>“détester”</b></em>.<br/>On peut l'utiliser pour parler d'<b>un objet, d'une action, d'un comportement ou de quelqu'un</b>."
+#   ruleen: "“avoir horreur de” means to hate.<br/>We can use it with anything we hate : an object, an action, a behavior or even someone.<br/>We hope that you won't have to use it too often !"
+#   expfr1: L’autoroute le 15 août, <b>quelle horreur</b> !
+#   expen1: Driving on a highway on mid-August is such a nightmare!
+#   expfr2: Il <b>est insupportable</b> en ce moment.
+#   expen2: He is being so unbearable.
+#   expfr3: Je <b>ne supporte pas</b> les magasins le samedi.
+#   expen3: I hate shopping on Saturdays.
+#   expfr4: La violence <b>me fait horreur</b>.
+#   expen4: Violence horrifies me.
+#   question2: Et vous, avez-vous déjà pris le métro parisien à une heure de pointe ?
+#   color: "#DAD1E6"
 
 mfe23:
   intro: Je donne ma voix !
