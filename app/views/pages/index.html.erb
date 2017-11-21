@@ -1,2 +1,22 @@
+<div class="wrapper-white ">
+  <div class="container">
+    <div class="navbar-kitt">
+      <nav>
+      </nav>
+    </div>
+  </div>
+</div>
 
-<%= javascript_pack_tag 'hello_react' %>
+<%= render 'shared/flashes'  %>
+
+<div id="sign-in-container" class="center">
+  <div class="sign-in-content">
+    <h1>Welcome to RES</h1>
+    <a class="btn btn-primary" href="/users/auth/github?type=student">
+      <i class="fa fa-github"></i> Enter Kitt as a Student
+    </a> or
+    <a href="/users/auth/github?type=teacher">
+      as a teacher
+    </a>
+  </div>
+</div>

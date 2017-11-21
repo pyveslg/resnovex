@@ -22,6 +22,9 @@ gem 'webpacker' # Transpile app-like JavaScript. Read more: https://github.com/r
 gem 'sass-rails', '~> 5.0' # Use SCSS for stylesheets
 gem 'uglifier', '>= 1.3.0' # Use Uglifier as compressor for JavaScript assets
 
+#OMNIAUTH
+gem 'omniauth-facebook'
+
 
 #ADDONS
 gem 'devise'

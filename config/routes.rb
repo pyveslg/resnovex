@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
   devise_for :users
-  root to: 'pages#home'
+  root to: 'pages#index'
   namespace :api, defaults: {format: :json} do
     resources :mves, only: [:index, :show]
   end

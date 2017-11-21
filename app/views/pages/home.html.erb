@@ -1,2 +1,4 @@
 <div id="mves"></div>
-<%= javascript_pack_tag 'mves' %>
+<% content_for :after_js do %>
+  <%= javascript_pack_tag "mves" %>
+<% end %>

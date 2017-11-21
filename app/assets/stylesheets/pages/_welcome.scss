@@ -1,0 +1,29 @@
+.wrapper-white {
+  background-color: white;
+}
+
+.navbar-kitt {
+  padding: 5px 0;
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-kitt .logo {
+  display: flex;
+  align-items: center;
+  svg {
+    width: 35px;
+    height: 35px;
+    margin-top: 0px !important;
+  }
+}
+
+#sign-in-container {
+  text-align: center;
+  height: calc(100vh - 80px);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
